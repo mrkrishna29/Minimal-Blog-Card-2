@@ -1,1 +1,1 @@
-# Minimal-Blog-Card-2
+# Minimal-Blog-Card with out the image
